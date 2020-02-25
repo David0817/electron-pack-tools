@@ -8,9 +8,8 @@
 - NodeJS 9.X.X
 - NodeJS 10.X.X
 
-- test
 **Electron**
-- Electron 7.1.2--
+- Electron 7.1.2
 
 ## Build
 1.Dependent environment
