@@ -10,7 +10,7 @@
 
 - test
 **Electron**
-- Electron 7.1.2
+- Electron 7.1.2--
 
 ## Build
 1.Dependent environment
